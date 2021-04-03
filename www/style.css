@@ -1,0 +1,24 @@
+.box {
+    height: 400px;
+}
+
+.box-body {
+    padding: 0;
+}
+
+.titleBox {
+    padding: 43% 2% 45%;
+    text-align: center;
+}
+
+h4 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.shiny-text-output {
+    width: 23%;
+    height: 400px;
+    margin: 0;
+    display: inline-block;
+}
